@@ -13,19 +13,11 @@ Ce projet est un exercice réalisé dans le cadre des défis de [Frontend Mentor
 
 [Aperçu du profil version mobile](https://github.com/jlepan/QR-code-component/blob/main/design/mobile-design.jpg)
 
-[Aperçu du profil lorsque l'on passe sur les liens](https://github.com/jlepan/QR-code-component/blob/main/design/active-states.jpg)
-
-[Aperçu du profil version desktop après envoi du formulaire](https://github.com/jlepan/QR-code-component/blob/main/design/desktop-thank-you-state.jpg)
-
 ## Captures d'écran du projet
 
 ![Aperçu de ma version desktop](https://github.com/jlepan/QR-code-component/blob/main/apercu-projet/apercu-desktop.png)
 
 ![Aperçu de ma version mobile](https://github.com/jlepan/QR-code-component/blob/main/apercu-projet/apercu-mobile.png)
-
-![Aperçu de ma version lorsque l'on passe sur les liens](https://github.com/jlepan/QR-code-component/blob/main/apercu-projet/apercu-active-states.png)
-
-![Aperçu du profil version desktop après envoi du formulaire](https://github.com/jlepan/QR-code-component/blob/main/apercu-projet/apercu-desktop-thank-you-state.png)
 
 ## Projet en ligne
 
