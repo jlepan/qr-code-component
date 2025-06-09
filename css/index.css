@@ -1,0 +1,47 @@
+@import url(reset.css);
+@import url(variables.css);
+@import url(qr-code-component.css);
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    background-color: var(--backgroundBody);
+    color: var(--colorText);
+    font-family: var(--fontBase);
+    font-weight: var(--fontWeightText);
+    font-size: 1rem;
+    line-height: 1.4;
+    letter-spacing: 0.2px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: var(--colorTitle);
+    font-weight: var(--fontWeightTitle);
+    font-size: 22px;
+    line-height: 1.2;
+}
+
+footer {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    min-width: 186.35px
+}
+
+@media only screen and (max-height: 650px) {
+    footer {
+        right: 10px;
+        left: unset;
+        transform: none;
+    }
+}

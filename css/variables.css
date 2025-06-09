@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Outfit";
+    src: url("../fonts/Outfit/Outfit-VariableFont_wght.ttf") format("truetype");
+}
+
+:root {
+    --fontBase: "Outfit", Arial, Helvetica, sans-serif;
+    --backgoundComponent: #FFF;
+    --backgroundBody: hsl(212, 45%, 89%);
+    --colorTitle: hsl(218, 44%, 22%);
+    --colorText: hsl(216, 15%, 48%);
+    --fontWeightTitle: 700;
+    --fontWeightText: 400
+}
