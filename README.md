@@ -9,23 +9,23 @@ Ce projet est un exercice réalisé dans le cadre des défis de [Frontend Mentor
 
 ## Modèles fournis
 
-[Aperçu du profil version desktop](https://github.com/jlepan/QR-code-component/blob/main/design/desktop-design.jpg)
+[Aperçu du profil version desktop](https://github.com/jlepan/qr-code-component/blob/main/design/desktop-design.jpg)
 
-[Aperçu du profil version mobile](https://github.com/jlepan/QR-code-component/blob/main/design/mobile-design.jpg)
+[Aperçu du profil version mobile](https://github.com/jlepan/qr-code-component/blob/main/design/mobile-design.jpg)
 
 ## Captures d'écran du projet
 
-![Aperçu de ma version desktop](https://github.com/jlepan/QR-code-component/blob/main/apercu-projet/apercu-desktop.png)
+![Aperçu de ma version desktop](https://github.com/jlepan/qr-code-component/blob/main/apercu-projet/apercu-desktop.png)
 
-![Aperçu de ma version mobile](https://github.com/jlepan/QR-code-component/blob/main/apercu-projet/apercu-mobile.png)
+![Aperçu de ma version mobile](https://github.com/jlepan/qr-code-component/blob/main/apercu-projet/apercu-mobile.png)
 
 ## Projet en ligne
 
-[Voir le projet en ligne](https://jlepan.github.io/QR-code-component/)
+[Voir le projet en ligne](https://jlepan.github.io/qr-code-component/)
 
 ## Installation
    ```bash
-   git clone https://github.com/jlepan/QR-code-component.git
+   git clone https://github.com/jlepan/qr-code-component.git
    ```
 2. Ouvrir le fichier index.html dans le navigateur pour voir la page.
 
