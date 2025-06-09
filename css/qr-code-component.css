@@ -6,7 +6,7 @@
     height: 499px;
     background-color: var(--backgoundComponent);
     padding: 16px 16px 40px;
-    border-radius: 10px;
+    border-radius: 20px;
     text-align: center;
     display: flex;
     flex-direction: column;
