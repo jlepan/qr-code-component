@@ -29,10 +29,6 @@ body {
     line-height: 1.2;
 }
 
-a {
-    transition: text-decoration 0.3s
-}
-
 a:hover {
     text-decoration: underline;
 }
