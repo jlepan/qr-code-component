@@ -28,7 +28,7 @@
 
 .QR-code .text-content {
     margin-block: auto;
-    width: 256px
+    padding-inline: 10px
 }
 
 .QR-code .title {
