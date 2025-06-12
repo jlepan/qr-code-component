@@ -28,10 +28,10 @@ Ces fonctionnalités ont été ajoutées pour m'entraîner au JavaScript, et not
 
 ![Aperçu de ma version mobile en mode clair](https://github.com/jlepan/qr-code-component/blob/main/apercu-projet/apercu-light-mode-mobile.png)
 
-![Aperçu de ma version desktop en mode sombre](https://github.com/jlepan/qr-code-component/blob/main/apercu-pojet/apercu-dark-mode-desktop.png)
+![Aperçu de ma version desktop en mode sombre](https://github.com/jlepan/qr-code-component/blob/main/apercu-projet/apercu-dark-mode-desktop.png)
 
 
-![Aperçu de ma version mobile en mode sombre](https://github.com/jlepan/qr-code-component/blob/main/apercu-pojet/apercu-dark-mode-mobile.png)
+![Aperçu de ma version mobile en mode sombre](https://github.com/jlepan/qr-code-component/blob/main/apercu-projet/apercu-dark-mode-mobile.png)
 
 ## Projet en ligne
 
