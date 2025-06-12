@@ -5,10 +5,24 @@
 
 :root {
     --fontBase: "Outfit", Arial, Helvetica, sans-serif;
+    --fontWeightTitle: 700;
+    --fontWeightText: 400
+}
+
+:root .light-mode {
     --backgoundComponent: #FFF;
     --backgroundBody: hsl(212, 45%, 89%);
     --colorTitle: hsl(218, 44%, 22%);
     --colorText: hsl(216, 15%, 48%);
-    --fontWeightTitle: 700;
-    --fontWeightText: 400
+    --colorBorder: #3685ff;
+    --backgroundButton: #FFF;
+}
+
+:root .dark-mode {
+    --backgoundComponent: #121519;
+    --backgroundBody: #162b47;
+    --colorTitle: #98989d;
+    --colorText: #bfbfc3;
+    --colorBorder: #2c7dfa;
+    --backgroundButton: #000;
 }

@@ -1,0 +1,14 @@
+.toggle-mode {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: var(--backgroundButton);
+    border: solid 2px var(--colorBorder);
+    color: var(--colorText);
+    font-family: var(--fontBase);
+    font-weight: 800;
+    border-radius: 20px;
+    padding: 0.5em 1em;
+    text-align: center;
+    cursor: pointer;
+}

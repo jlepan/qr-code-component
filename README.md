@@ -2,10 +2,19 @@
 
 Ce projet est un exercice réalisé dans le cadre des défis de [Frontend Mentor](https://www.frontendmentor.io/). 
  Il consiste à créer un composant de QR code en respectant la maquette donnée.
+
+## Fonctionalités supplémentaires
+
+- Mode clair / mode sombre dynamique
+- Stockage du mode choisi dans le localStorage pour mémoriser la préférence entre les sessions
+
+Ces fonctionnalités ont été ajoutées pour m'entraîner au JavaScript, et notamment à la manipulation du localStorage.
+
 ## Technologies utilisées
 
 - HTML5
 - CSS3
+- JavaScript
 
 ## Modèles fournis
 
@@ -15,9 +24,14 @@ Ce projet est un exercice réalisé dans le cadre des défis de [Frontend Mentor
 
 ## Captures d'écran du projet
 
-![Aperçu de ma version desktop](https://github.com/jlepan/qr-code-component/blob/main/apercu-projet/apercu-desktop.png)
+![Aperçu de ma version desktop en mode clair](https://github.com/jlepan/qr-code-component/blob/main/apercu-projet/apercu-light-mode-desktop.png)
 
-![Aperçu de ma version mobile](https://github.com/jlepan/qr-code-component/blob/main/apercu-projet/apercu-mobile.png)
+![Aperçu de ma version mobile en mode clair](https://github.com/jlepan/qr-code-component/blob/main/apercu-projet/apercu-light-mode-mobile.png)
+
+![Aperçu de ma version desktop en mode sombre](https://github.com/jlepan/qr-code-component/blob/main/apercu-pojet/apercu-dark-mode-desktop.png)
+
+
+![Aperçu de ma version mobile en mode sombre](https://github.com/jlepan/qr-code-component/blob/main/apercu-pojet/apercu-dark-mode-mobile.png)
 
 ## Projet en ligne
 

@@ -1,9 +1,11 @@
 @import url(reset.css);
 @import url(variables.css);
 @import url(qr-code-component.css);
+@import url(button-mode.css);
 
 * {
     box-sizing: border-box;
+    transition: background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease;
 }
 
 body {
